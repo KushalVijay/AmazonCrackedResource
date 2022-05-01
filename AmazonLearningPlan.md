@@ -48,9 +48,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | Done ✅ | Easy-Medium |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  Done ✅ |  Medium |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/) | Done ✅ | Easy-Medium |
 | [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |

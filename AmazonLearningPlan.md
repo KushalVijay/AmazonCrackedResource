@@ -67,7 +67,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  Done ✅ | Easy |
 | [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |

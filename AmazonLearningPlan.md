@@ -107,11 +107,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  Done ✅ |  Medium |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |
 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  Done ✅ |  Medium |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |
 
 ---
 ## Contribute

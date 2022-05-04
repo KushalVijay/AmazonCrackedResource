@@ -108,7 +108,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Decode Ways](https://leetcode.com/problems/decode-ways/) |  Done ✅ |  Medium |
 | [Baseball Game](https://leetcode.com/problems/baseball-game/) |  Done ✅ |  Easy |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  Done ✅ |  Medium |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  Done ✅ |  Medium |
 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  Done ✅ |  Medium |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |

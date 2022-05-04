@@ -92,7 +92,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  Done ✅ | Easy |
-| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
+| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)  |  Done ✅ | Easy-Medium |
 | [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
 
 ---

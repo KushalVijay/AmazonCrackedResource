@@ -32,7 +32,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | Done ✅ | Easy-Medium |
 | [Partition Labels](https://leetcode.com/problems/partition-labels/) |  Done ✅ |  Medium |
 | [Two Sum](https://leetcode.com/problems/two-sum/) |  Done ✅ | Easy |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Done ✅ |  Medium |
 | [LRU Cache](https://leetcode.com/problems/lru-cache/)  | Done ✅ | Medium-Hard |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
@@ -55,9 +55,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  Done ✅ |  Medium |
 | [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/) |  Done ✅ |  Medium |
 | [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)   |  Done ✅ |  Medium |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  Done ✅ |  Medium |
 |  [Maximal Square]( https://leetcode.com/problems/maximal-square/)   |  Done ✅ |  Medium |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/)|  Done ✅ |  Medium |
 
 ---
 <br>
@@ -66,9 +66,9 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
+| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  Done ✅ |  Medium |
 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  Done ✅ | Easy |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
+| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/) |  Done ✅ |  Medium |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | Skipped❌ | Premium Question |
 | [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
 | [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/)  |  Done ✅ |  Easy-Medium |

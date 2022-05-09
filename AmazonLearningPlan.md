@@ -29,16 +29,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  |  |  |
-| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  |  |
-| [Two Sum](https://leetcode.com/problems/two-sum/) |  |  |
-| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  |  |
-| [LRU Cache](https://leetcode.com/problems/lru-cache/)  |  |  |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/)  | Done ✅ | Easy-Medium |
+| [Partition Labels](https://leetcode.com/problems/partition-labels/) |  Done ✅ |  Medium |
+| [Two Sum](https://leetcode.com/problems/two-sum/) |  Done ✅ | Easy |
+| [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)  |  Done ✅ |  Medium |
+| [LRU Cache](https://leetcode.com/problems/lru-cache/)  | Done ✅ | Medium-Hard |
 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)  |  |  |
 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) |  |  |
-| [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)  |  |  |
-| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  |  |
-| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|Done ✅|Easy |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)  |  Done ✅ |  Medium |
+| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |  Done ✅ | Easy |
 
 
 ---
@@ -48,16 +48,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) |  |  |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
-| [Most Common Word](https://leetcode.com/problems/most-common-word/)  |  |  |
-| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  |  |
-| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  |  |
-| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/)  |  |  |
-| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)  |  |  |
-| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  |  |
-|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)  |  |  |
-| [Friend Circles]( https://leetcode.com/problems/friend-circles/) |  |  |
+| [Top K Frequent Words]( https://leetcode.com/problems/top-k-frequent-words/) | Done ✅ | Easy-Medium |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/)  |  Done ✅ |  Medium |
+| [Most Common Word](https://leetcode.com/problems/most-common-word/) | Done ✅ | Easy-Medium |
+| [Merge k Sorted Lists]( https://leetcode.com/problems/merge-k-sorted-lists/) |  Done ✅ |  Medium |
+| [Longest Palindromic Substring]( https://leetcode.com/problems/longest-palindromic-substring/) |  Done ✅ |  Medium |
+| [Subtree of Another Tree]( https://leetcode.com/problems/subtree-of-another-tree/) |  Done ✅ |  Medium |
+| [Trapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/)   |  Done ✅ |  Medium |
+| [Word Ladder]( https://leetcode.com/problems/word-ladder/)  |  Done ✅ |  Medium |
+|  [Maximal Square]( https://leetcode.com/problems/maximal-square/)   |  Done ✅ |  Medium |
+| [Friend Circles]( https://leetcode.com/problems/friend-circles/)|  Done ✅ |  Medium |
 
 ---
 <br>
@@ -66,16 +66,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/)  |  |  |
-| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  |  |  |
-| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/)  |  |  |
-| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  |  |  |
-| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)  |  |  |
-| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/) |  |  |
-| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  |  |
-| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  |  |
-| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
-| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
+| [Longest Substring Without Repeating Characters]( https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  Done ✅ |  Medium |
+| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |  Done ✅ | Easy |
+| [Merge Intervals]( https://leetcode.com/problems/merge-intervals/) |  Done ✅ |  Medium |
+| [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/)  | Skipped❌ | Premium Question |
+| [Prison Cells After N Days]( https://leetcode.com/problems/prison-cells-after-n-days/)   |  Done ✅ |  Medium |
+| [Meeting Rooms II]( https://leetcode.com/problems/meeting-rooms-ii/)  |  Done ✅ |  Easy-Medium |
+| [Group Anagrams]( https://leetcode.com/problems/group-anagrams/) |  Done ✅ |  Easy-Medium |
+| [Sliding Window Maximum]( https://leetcode.com/problems/sliding-window-maximum/)  |  Done ✅ |  Medium |
+| [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  Done ✅ |   Medium-Hard |
+| [Best Time to Buy and Sell Stock]( https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  Done ✅ | Easy |
 
 ---
 <br>
@@ -84,15 +84,15 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  |  |
-| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  |  |
-| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  |  |
+| [Robot Bounded In Circle]( https://leetcode.com/problems/robot-bounded-in-circle/) |  Done ✅ |  Medium |
+| [Number of Provinces ]( https://leetcode.com/problems/number-of-provinces/) |  Done ✅ | Easy |
+| [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/) |  Done ✅ | Easy |
 | [Search Suggestions System]( https://leetcode.com/problems/search-suggestions-system/) |  |  |
-| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  |  |
+| [Minimum Cost to Connect Sticks ]( https://leetcode.com/problems/minimum-cost-to-connect-sticks/)  |  Done ✅ | Easy-Medium |
 | [Analyze User Website Visit Pattern]( https://leetcode.com/problems/analyze-user-website-visit-pattern/) |  |  |
 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts ]( https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
-| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) |  |  |
+| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  Done ✅ | Easy |
+| [Least Number of Unique Integers after K Removals ]( https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)  |  Done ✅ | Easy-Medium |
 | [Sell Diminishing-Valued Colored Balls]( https://leetcode.com/problems/sell-diminishing-valued-colored-balls/) |  |  |
 
 ---
@@ -102,16 +102,16 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  |  |
-| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  |  |
-| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) |  |  |
-| [Decode Ways](https://leetcode.com/problems/decode-ways/) |  |  |
-| [Baseball Game](https://leetcode.com/problems/baseball-game/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
-| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  |  |
-| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  |  |
-| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  |  |
-| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
+| [Copy List with Random Pointer]( https://leetcode.com/problems/copy-list-with-random-pointer/) |  Done ✅ |  Medium |
+| [GitContainer With Most Water]( https://leetcode.com/problems/container-with-most-water/) |  Done ✅ |  Medium |
+| [Design Tic-Tac-Toe]( https://leetcode.com/problems/design-tic-tac-toe/) | In Progress🕓 | Ruko Zara✋ |
+| [Decode Ways](https://leetcode.com/problems/decode-ways/) |  Done ✅ |  Medium |
+| [Baseball Game](https://leetcode.com/problems/baseball-game/) |  Done ✅ |  Easy |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |
+| [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)  |  Done ✅ |  Medium |
+| [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)  |  Done ✅ |  Medium |
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |  Done ✅ |  Medium |
+| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  Done ✅ |  Easy |
 
 ---
 ## Contribute
